@@ -1,0 +1,18 @@
+ p{ 
+    border: 1px solid; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+    width: 170px; 
+    height: 38px;
+}
+              
+.form-control{
+    width: 30%;
+}       
+
+.col-form-label{
+    font-size: 18px;
+    font-weight: 450;
+}
+
+
